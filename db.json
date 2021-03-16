@@ -1,14 +1,14 @@
 {
      "events" :[ {
         "id" : 5855544333 ,
-        "category" : 'bunn ',
-        "title" : 'cat adoption day' ,
-        "description" : 'find a new pet to be your friend',
-        "location" : 'cairo',
-        "date" :'may 2 2021',
-        "time" : '12:00',
-        "petsAllowed" :true ,
-        "organizer" : 'ohania'
+        "category" : "bunn",
+        "title" : "cat adoption day" ,
+        "description" : "find a new pet to be your friend",
+        "location" : "cairo",
+        "date" :"may 2 2021",
+        "time" : "12:00",
+        "petsAllowed" :"true" ,
+        "organizer" : "ohania"
 
       }]
 
