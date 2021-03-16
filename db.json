@@ -1,38 +1,14 @@
 {
      "events" :[ {
-        id : 5855544333 ,
-        category : 'bunn ',
-        title : 'cat adoption day' ,
-        description : 'find a new pet to be your friend',
-        location : 'cairo',
-        date :'may 2 2021',
-        time : '12:00',
-        petsAllowed :true ,
-        organizer : 'ohania'
-
-      }  ,
-      {
-        id : 35833355544 ,
-        category : 'animal ',
-        title : 'cat adoption day' ,
-        description : 'find a new pet to be your friend',
-        location : 'delhi',
-        date :'januuary 24 2021',
-        time : '12:30',
-        petsAllowed :true ,
-        organizer : 'blumber'
-
-      } , 
-      {
-        id : 585553344 ,
-        category : 'animal welfare',
-        title : 'cat adoption day' ,
-        description : 'find a new pet to be your friend',
-        location : 'alex',
-        date :'june 24 2021',
-        time : '11:00',
-        petsAllowed :true ,
-        organizer : 'prengo'
+        "id" : 5855544333 ,
+        "category" : 'bunn ',
+        "title" : 'cat adoption day' ,
+        "description" : 'find a new pet to be your friend',
+        "location" : 'cairo',
+        "date" :'may 2 2021',
+        "time" : '12:00',
+        "petsAllowed" :true ,
+        "organizer" : 'ohania'
 
       }]
 
