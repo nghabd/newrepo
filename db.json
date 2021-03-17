@@ -10,6 +10,21 @@
         "petsAllowed" :"true" ,
         "organizer" : "ohania"
 
-      }]
+      },
+                {
+                
+        "id" : 585554432333 ,
+        "category" : "de eee",
+        "title" : "cat adoption day" ,
+        "description" : "retokens a new dettergent to be clean ",
+        "location" : "cairo",
+        "date" :"may 3 2011",
+        "time" : "12:00",
+        "petsAllowed" :"true" ,
+        "organizer" : "ohania"
+
+      
+                }
+               ]
 
 }
